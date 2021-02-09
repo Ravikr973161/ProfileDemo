@@ -11,4 +11,4 @@ dependencies {
     implementation 'de.hdodenhof:circleimageview:3.1.0'
 }
 
-<p align="center"><img src="ProfileDemo/Pro.png" /></p>
+<p align="center"><img src="ProfileDemo/pro.png" /></p>
